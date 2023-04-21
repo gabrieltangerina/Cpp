@@ -1,8 +1,9 @@
 #include <iostream>
+#define PI 3.141592
 
 using namespace std;
 
 int main(){
-    cout << "Primeiro código no VS code";
+    cout << PI;
     return 0;
 }
